@@ -1,0 +1,138 @@
+$date
+	Fri Apr 22 16:11:35 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench_ $end
+$scope module ctrl $end
+$var wire 1 ! clock $end
+$var wire 2 " coin [1:0] $end
+$var wire 1 # reset $end
+$var wire 1 $ newspaper $end
+$var reg 2 % fsm_state [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx %
+x$
+1#
+b0 "
+0!
+$end
+#20
+0$
+b0 %
+1!
+#40
+0!
+#50
+0#
+#60
+1!
+#80
+0!
+#100
+1!
+#120
+0!
+#140
+1!
+#160
+0!
+b1 "
+#180
+b1 %
+1!
+#200
+0!
+b0 "
+#220
+1!
+#240
+0!
+#260
+1!
+#280
+0!
+b1 "
+#300
+b10 %
+1!
+#320
+0!
+b0 "
+#340
+1!
+#360
+0!
+#380
+1!
+#400
+0!
+b1 "
+#420
+1$
+b11 %
+1!
+#440
+0!
+b0 "
+#460
+0$
+b0 %
+1!
+#480
+0!
+#500
+1!
+#520
+0!
+#540
+1!
+#560
+0!
+#580
+1!
+#600
+0!
+#620
+b1 %
+1!
+b1 "
+#640
+0!
+#660
+1!
+b0 "
+#680
+0!
+#700
+1!
+#720
+0!
+#740
+1$
+b11 %
+1!
+b10 "
+#760
+0!
+#780
+0$
+b0 %
+1!
+b0 "
+#800
+0!
+#820
+1!
+#840
+0!
+#860
+1!
