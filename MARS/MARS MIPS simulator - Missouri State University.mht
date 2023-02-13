@@ -1,0 +1,3127 @@
+From: =?gb2312?B?08kgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA4ILGjtOY=?=
+Subject: MARS MIPS simulator - Missouri State University
+Date: Tue, 8 May 2012 11:36:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0015_01CD2D0E.C9E9FEC0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7600.16807
+
+这是 MIME 格式的多方邮件。
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xml:lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v =3D =
+
+"urn:schemas-microsoft-com:vml" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office"><HEAD><META =
+content=3D"IE=3D8.0000"=20
+http-equiv=3D"X-UA-Compatible">
+<TITLE>MARS MIPS simulator - Missouri State University</TITLE>
+<META content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3DContent-Type><LINK=20
+rel=3Dstylesheet type=3Dtext/css=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_fil=
+es/global.css"=20
+media=3Dall><LINK rel=3Dstylesheet type=3Dtext/css=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_fil=
+es/sgf.css"=20
+media=3Dall>
+<SCRIPT language=3DJavaScript>
+<!--
+function FP_swapImg() {//v1.0
+ var doc=3Ddocument,args=3Darguments,elm,n; doc.$imgSwaps=3Dnew Array(); =
+for(n=3D2; n<args.length;
+ n+=3D2) { elm=3DFP_getObjectByID(args[n]); if(elm) { =
+doc.$imgSwaps[doc.$imgSwaps.length]=3Delm;
+ elm.$src=3Delm.src; elm.src=3Dargs[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=3Ddocument,a=3Darguments; if(!d.FP_imgs) d.FP_imgs=3Dnew Array();
+ for(var i=3D0; i<a.length; i++) { d.FP_imgs[i]=3Dnew Image; =
+d.FP_imgs[i].src=3Da[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=3Ddocument; if(o.getElementById) =
+el=3Do.getElementById(id);
+ else if(o.layers) c=3Do.layers; else if(o.all) el=3Do.all[id]; if(el) =
+return el;
+ if(o.id=3D=3Did || o.name=3D=3Did) return o; if(o.childNodes) =
+c=3Do.childNodes; if(c)
+ for(n=3D0; n<c.length; n++) { el=3DFP_getObjectByID(id,c[n]); if(el) =
+return el; }
+ f=3Do.forms; if(f) for(n=3D0; n<f.length; n++) { els=3Df[n].elements;
+ for(m=3D0; m<els.length; m++){ el=3DFP_getObjectByID(id,els[n]); if(el) =
+return el; } }
+ return null;
+}
+// -->
+</SCRIPT>
+
+<STYLE type=3Dtext/css>.style2 {
+	FONT-FAMILY: Arial
+}
+</STYLE>
+
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7600.16968"></HEAD>
+<BODY style=3D"BACKGROUND-COLOR: #96a978"=20
+onload=3D"FP_preloadImgs(/*url*/'button36.jpg',/*url*/'button35.jpg',/*ur=
+l*/'button2D.jpg',/*url*/'button2C.jpg',/*url*/'button30.jpg',/*url*/'but=
+ton2F.jpg',/*url*/'button33.jpg',/*url*/'button32.jpg',/*url*/'button39.j=
+pg',/*url*/'button38.jpg',/*url*/'button3C.jpg',/*url*/'button3B.jpg',/*u=
+rl*/'button3.jpg',/*url*/'button4.jpg')">
+<DIV id=3DPageWrapper>
+<DIV id=3DMastheadWrapper class=3DCenterWrapper>
+<DIV id=3DMasthead>
+<DIV class=3DColumnTrpl>
+<H1><A href=3D"http://www.missouristate.edu/"><IMG alt=3D"Missouri State =
+University"=20
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_file=
+s/CarrLftStrUnivRev.gif"=20
+width=3D282 height=3D70></A></H1></DIV><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/#EndSearch"><IMG=
+=20
+alt=3D"Skip search and site index"=20
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_file=
+s/spacer.gif"=20
+width=3D1 height=3D1></A>=20
+<FORM method=3Dpost =
+action=3Dhttp://search.missouristate.edu/results.asp>
+<DIV id=3DSearch class=3D"FSmall NavLinks"><INPUT value=3DSpringfield =
+type=3Dhidden=20
+name=3DCampus> <INPUT value=3Dwebsite type=3Dhidden name=3Dtype> <LABEL=20
+for=3DKeywords><IMG alt=3D"Enter keyword:"=20
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_file=
+s/spacer.gif"></LABEL><INPUT=20
+id=3DKeywords name=3DINPUT> <INPUT id=3DSearchButton value=3DSearch =
+type=3Dsubmit name=3DSearch><BR><A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Da">a</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Db">b</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dc">c</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dd">d</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3De">e</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Df">f</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dg">g</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dh">h</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Di">i</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dj">j</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dk">k</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dl">l</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dm">m</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dn">n</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Do">o</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dp">p</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dq">q</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dr">r</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Ds">s</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dt">t</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Du">u</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dv">v</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dw">w</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dx">x</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dy">y</A> =
+<A=20
+href=3D"http://search.missouristate.edu/siteindex.asp?letter=3Dz">z</A> =
+<IMG alt=3D""=20
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_file=
+s/spacer.gif"=20
+width=3D169 height=3D1> </DIV></FORM><A name=3DEndSearch></A>
+<DIV class=3D"Clear MozClear"></DIV></DIV></DIV>
+<DIV class=3DCenterWrapper>
+<DIV id=3DOuterColumnContainer>
+<DIV style=3D"WIDTH: 561px; HEIGHT: 750px" id=3DInnerColumnContainer>
+<DIV style=3D"WIDTH: 145px; HEIGHT: 700px" id=3DLeftColumn>
+<DIV id=3DNavPhoto><IMG border=3D0 alt=3D"The planet Mars, NASA photo"=20
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/Mars%20140.jpg" =
+width=3D140=20
+height=3D140>=20
+<P>&nbsp;</P></DIV>
+<DIV style=3D"WIDTH: 135px; HEIGHT: 300px" id=3DLocalNav =
+class=3D"NavLinks FSmall">
+<P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 0px" align=3Dright><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/index.htm"><IMG =
+id=3Dimg10=20
+onmouseup=3D"FP_swapImg(0,0,/*id*/'img10',/*url*/'button35.jpg')"=20
+onmouseover=3D"FP_swapImg(1,0,/*id*/'img10',/*url*/'button35.jpg')"=20
+onmouseout=3D"FP_swapImg(0,0,/*id*/'img10',/*url*/'button34.jpg')"=20
+onmousedown=3D"FP_swapImg(1,0,/*id*/'img10',/*url*/'button36.jpg')" =
+border=3D0=20
+alt=3DHome =
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/button34.jpg"=20
+width=3D100 height=3D24 fp-title=3D"Home"=20
+fp-style=3D"fp-btn: Border Bottom 3; fp-font-size: 12; fp-proportional: =
+0; fp-orig: 0"></A>
+<P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 0px" align=3Dright><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/features.htm"><I=
+MG=20
+id=3Dimg7 =
+onmouseup=3D"FP_swapImg(0,0,/*id*/'img7',/*url*/'button2C.jpg')"=20
+onmouseover=3D"FP_swapImg(1,0,/*id*/'img7',/*url*/'button2C.jpg')"=20
+onmouseout=3D"FP_swapImg(0,0,/*id*/'img7',/*url*/'button2B.jpg')"=20
+onmousedown=3D"FP_swapImg(1,0,/*id*/'img7',/*url*/'button2D.jpg')" =
+border=3D0=20
+alt=3DFeatures =
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/button2B.jpg"=20
+width=3D100 height=3D24 fp-title=3D"Features"=20
+fp-style=3D"fp-btn: Border Bottom 3; fp-font-size: 12; fp-proportional: =
+0; fp-orig: 0"></A>
+<P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 0px" align=3Dright><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/download.htm"><I=
+MG=20
+id=3Dimg8 =
+onmouseup=3D"FP_swapImg(0,0,/*id*/'img8',/*url*/'button2F.jpg')"=20
+onmouseover=3D"FP_swapImg(1,0,/*id*/'img8',/*url*/'button2F.jpg')"=20
+onmouseout=3D"FP_swapImg(0,0,/*id*/'img8',/*url*/'button2E.jpg')"=20
+onmousedown=3D"FP_swapImg(1,0,/*id*/'img8',/*url*/'button30.jpg')" =
+border=3D0=20
+alt=3DDownload =
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/button2E.jpg"=20
+width=3D100 height=3D24 fp-title=3D"Download"=20
+fp-style=3D"fp-btn: Border Bottom 3; fp-font-size: 12; fp-proportional: =
+0; fp-orig: 0"></A>
+<P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 0px" align=3Dright><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/license.htm"><IM=
+G=20
+id=3Dimg13 =
+onmouseup=3D"FP_swapImg(0,0,/*id*/'img13',/*url*/'button3.jpg')"=20
+onmouseover=3D"FP_swapImg(1,0,/*id*/'img13',/*url*/'button3.jpg')"=20
+onmouseout=3D"FP_swapImg(0,0,/*id*/'img13',/*url*/'button2.jpg')"=20
+onmousedown=3D"FP_swapImg(1,0,/*id*/'img13',/*url*/'button4.jpg')" =
+border=3D0=20
+alt=3DLicense =
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/button2.jpg"=20
+width=3D100 height=3D20 fp-title=3D"License"=20
+fp-style=3D"fp-btn: Border Bottom 3; fp-font-size: 12">
+<P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 0px" align=3Dright><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/papers.htm"><IMG=
+ id=3Dimg9=20
+onmouseup=3D"FP_swapImg(0,0,/*id*/'img9',/*url*/'button32.jpg')"=20
+onmouseover=3D"FP_swapImg(1,0,/*id*/'img9',/*url*/'button32.jpg')"=20
+onmouseout=3D"FP_swapImg(0,0,/*id*/'img9',/*url*/'button31.jpg')"=20
+onmousedown=3D"FP_swapImg(1,0,/*id*/'img9',/*url*/'button33.jpg')" =
+border=3D0=20
+alt=3DPapers =
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/button31.jpg"=20
+width=3D100 height=3D24 fp-title=3D"Papers"=20
+fp-style=3D"fp-btn: Border Bottom 3; fp-font-size: 12; fp-proportional: =
+0; fp-orig: 0"></A>
+<P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 0px" align=3Dright><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/Help/Help_4_1/Ma=
+rsHelpIntro.html"><IMG=20
+id=3Dimg11 =
+onmouseup=3D"FP_swapImg(0,0,/*id*/'img11',/*url*/'button38.jpg')"=20
+onmouseover=3D"FP_swapImg(1,0,/*id*/'img11',/*url*/'button38.jpg')"=20
+onmouseout=3D"FP_swapImg(0,0,/*id*/'img11',/*url*/'button37.jpg')"=20
+onmousedown=3D"FP_swapImg(1,0,/*id*/'img11',/*url*/'button39.jpg')" =
+border=3D0=20
+alt=3D"Help &amp; Info"=20
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/button37.jpg" =
+width=3D100=20
+height=3D24><!-- MSComment=3D"ibutton" fp-style=3D"fp-btn: Border Bottom =
+3; fp-font-size: 12; fp-proportional: 0" fp-title=3D"Help & Info" =
+--></A>
+<P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 0px" align=3Dright><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/contact.htm"><IM=
+G=20
+id=3Dimg12 =
+onmouseup=3D"FP_swapImg(0,0,/*id*/'img12',/*url*/'button3B.jpg')"=20
+onmouseover=3D"FP_swapImg(1,0,/*id*/'img12',/*url*/'button3B.jpg')"=20
+onmouseout=3D"FP_swapImg(0,0,/*id*/'img12',/*url*/'button3A.jpg')"=20
+onmousedown=3D"FP_swapImg(1,0,/*id*/'img12',/*url*/'button3C.jpg')" =
+border=3D0=20
+alt=3D"Contact Us"=20
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/button3A.jpg" =
+width=3D100=20
+height=3D24 fp-title=3D"Contact Us"=20
+fp-style=3D"fp-btn: Border Bottom 3; fp-font-size: 12; fp-proportional: =
+0; fp-orig: 0"></A>=20
+
+<P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 0px"=20
+align=3Dright>&nbsp;</P></DIV></DIV>
+<DIV id=3DContentColumn>
+<DIV class=3DColumnTrpl>
+<H2><I><FONT face=3DArial>MARS <FONT size=3D4>(MIPS Assembler and =
+Runtime Simulator)=20
+</FONT></FONT></I></H2>
+<P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT size=3D4 =
+face=3DArial><I>An IDE=20
+for MIPS Assembly Language Programming </I></FONT></P></DIV>
+<DIV style=3D"WIDTH: 500px; HEIGHT: 620px" class=3DColumnTrpl>
+<P>&nbsp;<FONT face=3DArial>MARS is a lightweight interactive =
+development=20
+environment (IDE) for programming in MIPS assembly language, intended =
+for=20
+educational-level use with Patterson and Hennessy's <I>Computer =
+Organization and=20
+Design</I>. </FONT></P>
+<P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 6px"><IMG border=3D0=20
+alt=3D"Softpedia Free logo"=20
+src=3D"http://courses.missouristate.edu/KenVollmar/MARS/Softpedia_Free.gi=
+f"=20
+width=3D170 height=3D116> <FONT size=3D2 face=3DArial><I>NEW Jan. 2011: =
+"MARS has been=20
+tested in the Softpedia labs using several industry-leading security =
+solutions=20
+and found to be completely clean of adware/spyware components. ... =
+Softpedia=20
+guarantees that MARS 4.0.1 is 100% FREE, which means it does not contain =
+any=20
+form of malware, including spyware, viruses, trojans and =
+backdoors."&nbsp; <A=20
+href=3D"http://www.softpedia.com/get/Programming/Coding-languages-Compile=
+rs/Vollmar-MARS.shtml">Softpedia's=20
+MARS page </A></I></FONT></P><!--
+<font face=3D"Arial">
+<p><font size=3D"3"><strong><img alt=3D"New Aug 2010" =
+src=3D"New_4_0.jpg" />&nbsp;&nbsp;=20
+</strong> </font>
+<b>
+<A HREF=3D"http://www.cs.missouristate.edu/~vollmar/MARS/download.htm">
+<font size=3D"4"><i>Download MARS 4.0 software!</i>
+</font>
+</A>
+&nbsp; <span class=3D"style3"> </span></b></p>
+-->
+<P><FONT face=3DArial><B><A=20
+href=3D"http://www.cs.missouristate.edu/~vollmar/MARS/download.htm"><FONT=
+=20
+size=3D4><I>Download MARS 4.2 software!</I> </FONT></A>(Aug. 2011) =
+&nbsp;=20
+</B></FONT></P>
+<P><FONT face=3DArial><B><I>New for 4.0: new editor, featuring multiple =
+files,=20
+context-sensitive input, and color-coding.</I></B></FONT></P>
+<P><FONT face=3DArial></P><!--
+</font>
+<h2 class=3D"style4"><em><A =
+HREF=3D"http://www.cs.missouristate.edu/~vollmar/MARS/features_3_0.htm">
+What&#39;s New in MARS Version 4.0?</a></h2>
+-->
+<UL>
+  <LI><FONT face=3DArial>See a <B><A=20
+  =
+href=3D"http://www.cs.missouristate.edu/~vollmar/MARS/screenshot_4_0_1.jp=
+g">screenshot</A></B>=20
+  (1478 x 889 pixels, 198 KB JPEG) </FONT></LI>
+  <LI class=3Dstyle2><A=20
+  =
+href=3D"http://www.cs.missouristate.edu/~vollmar/MARS/tutorial.htm">Tutor=
+ial=20
+  materials</A> </LI>
+  <LI class=3Dstyle2>
+  <P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 2px"><FONT size=3D2=20
+  face=3DArial><I>Sample MIPS assembly program to run under MARS</I> <A=20
+  =
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/Fibonacci.asm">F=
+ibonacci.asm</A>=20
+  </FONT></P>
+  <P style=3D"MARGIN-TOP: 2px; MARGIN-BOTTOM: 2px">&nbsp;</P><!--
+<p><img alt=3D"Mac" src=3D"MacLogo.jpg" />&nbsp;&nbsp;=20
+<strong>Coming mid-Feb.2009: MARS as a Mac OS Application.=20
+If you're impatient, here's the=20
+<A =
+HREF=3D"http://www.cs.missouristate.edu/~vollmar/MARS/Mars128Mac.ico">
+	Mac 128x128 icon.</A>
+	--></STRONG></LI></UL>
+<P><FONT size=3D3><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/features.htm">MA=
+RS=20
+features overview:</A> </FONT><FONT size=3D2><A=20
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/features_3_0.htm=
+">(List=20
+of features by version)</A> </FONT></P>
+<UL>
+  <LI>
+  <P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT =
+face=3DArial>GUI with=20
+  point-and-click control and integrated editor</FONT></P></LI>
+  <LI>
+  <P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT =
+face=3DArial>Easily=20
+  editable register and memory values, similar to a =
+spreadsheet</FONT></P></LI>
+  <LI>
+  <P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT =
+face=3DArial>Display values=20
+  in hexadecimal or decimal </FONT></P></LI>
+  <LI>
+  <P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT =
+face=3DArial>Command line=20
+  mode for instructors to test and evaluate many programs =
+easily</FONT></P>
+  <LI>
+  <P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT =
+face=3DArial>Floating point=20
+  registers, coprocessor1 and coprocessor2. <EM>St</EM></FONT><I><FONT=20
+  face=3DArial>andard tool: bit-level view and edit of 32-bit floating =
+point=20
+  registers <A=20
+  =
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/FP_screenshot.jp=
+g">(screenshot).</A></FONT></I></P>
+  <LI>
+  <P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT =
+face=3DArial>Variable-speed=20
+  single-step execution </FONT></P></LI>
+  <LI>
+  <P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT =
+face=3DArial>"Tool" utility=20
+  for MIPS control of simulated devices. </FONT><EM>S</EM><I><FONT=20
+  face=3DArial>tandard tool: Cache performance analysis tool <A=20
+  =
+href=3D"http://courses.missouristate.edu/KenVollmar/MARS/Mem_screenshot.j=
+pg">(screenshot).</A>=20
+  </FONT></I></P></LI>
+  <LI>
+  <P style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"><FONT =
+face=3DArial>Single-step=20
+  backwards</FONT></P></LI></UL><FONT face=3DArial><I></DIV></DIV>
+<DIV class=3D"Clear MozClear"></DIV></DIV></DIV></DIV>
+<DIV id=3DFooter class=3DCenterWrapper>
+<UL>
+  <LI><A href=3D"http://www.missouristate.edu/">Missouri State =
+University</A></LI>
+  <LI>=E2=80=A2 Copyright 2006 Board of Governors,&nbsp;Missouri State =
+University</LI>
+  <LI>=E2=80=A2 <A =
+href=3D"http://www.missouristate.edu/disclaim.html">Disclaimer</A></LI>
+  <LI>=E2=80=A2 <A=20
+  =
+href=3D"http://www.missouristate.edu/accessibility.htm">Accessibility</A>=
+</LI></UL>
+<UL>
+  <LI>Maintained by: <A href=3D"mailto:KenVollmar@missouristate.edu">Ken =
+
+  Vollmar</A></LI>
+  <LI>=E2=80=A2 Last Modified:
+  <SCRIPT type=3Dtext/javascript><!--
+					var error, s, dt;
+					error=3Dfalse;
+					dt=3Dnew Date(document.lastModified);
+					var m=3Ddt.getMonth();
+					var d=3Ddt.getDate();
+					var y=3Ddt.getFullYear();
+					switch( m ) {
+						case 0: s =3D "January"; break;
+						case 1: s =3D "February"; break;
+						case 2: s =3D "March"; break;
+						case 3: s =3D "April"; break;
+						case 4: s =3D "May"; break;
+						case 5: s =3D "June"; break;
+						case 6: s =3D "July"; break;
+						case 7: s =3D "August"; break;
+						case 8: s =3D "September"; break;
+						case 9: s =3D "October"; break;
+						case 10: s =3D "November"; break;
+						case 11: s =3D "December"; break;
+						default: error=3Dtrue;
+			       }
+			       if (error){
+				       	s=3D"Unknown";
+			       }else{
+			       		s+=3D" "+d+", "+y;
+			       }
+       				document.write(s); //--></SCRIPT>
+   </LI>
+  <LI>=E2=80=A2 URL: http://courses.missouristate.edu
+  <SCRIPT type=3Dtext/javascript><!--=20
+				document.write(document.location.pathname) //--></SCRIPT>
+  </LI></UL>
+<DIV class=3D"Clear =
+MozClear"></DIV></DIV></DIV></I></FONT></FONT></BODY></HTML>
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_files/CarrLftStrUnivRev.gif
+
+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
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_files/spacer.gif
+
+R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/Mars%20140.jpg
+
+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
+woAHU9XiSS5OxJJJKST/2Q==
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/button34.jpg
+
+/9j/4AAQSkZJRgABAAEAUQBRAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD/2wCE
+AAICAgICAgICAgICAgICAgQCAgICAgQDAwIEBQUGBgUFBQUGBwkHBgYIBgUFCAoICAkJCgoKBgcL
+DAsKDAkKCgkBAgICAgICBAICBAkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJ
+CQkJCQkJCQkJCQkJCQkJCf/+AB4CAAAAAgAAAAQAAABjAAAAAwAAAAQAAAAAAAAA/8QBogAAAQUB
+AQEBAQEAAAAAAAAAAAECAwQFBgcICQoLAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgsQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+hEAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLR
+ChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn
+6Onq8vP09fb3+Pn6/8AAEQgAGABkAwERAAIRAQMRAf/aAAwDAQACEQMRAD8A+wNG+D3gLVdH0nU7
++w1ee+1DTor28mHia/TzZHUFmwJMDJPav4pxeYY6OLqxjWkkpS6vu/M/pLHcX57g8ZUwtCcFCDsl
+7KnoktNXE0v+FHfDcf8AML1f/wAKjUf/AI7XP/aWYL/l9L73/mcn+u3ES/5eQ/8ABVP/AORD/hR3
+w3H/ADC9X/8ACo1H/wCO0f2lj1/y+l97/wAw/wBduIv+fkP/AAVT/wDkTzb4u+EPhv8ACr4c+JvH
+/wDwimr67/wjltDcf2T/AMJxqNl9s8y4jhx52ZNmPNz9xumO+R6mR/X84zrCZP8AWZQ9tOMObV8v
+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
+vBmRYCg6OFoySbv8UnrZLq/JH//Z
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/button2B.jpg
+
+/9j/4AAQSkZJRgABAAEAUQBRAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD/2wCE
+AAICAgICAgICAgICAgICAgQCAgICAgQDAwIEBQUGBgUFBQUGBwkHBgYIBgUFCAoICAkJCgoKBgcL
+DAsKDAkKCgkBAgICAgICBAICBAkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJ
+CQkJCQkJCQkJCQkJCQkJCf/+AB4CAAAAAgAAAAQAAABjAAAAAwAAAAQAAAAAAAAA/8QBogAAAQUB
+AQEBAQEAAAAAAAAAAAECAwQFBgcICQoLAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgsQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+hEAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLR
+ChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn
+6Onq8vP09fb3+Pn6/8AAEQgAGABkAwERAAIRAQMRAf/aAAwDAQACEQMRAD8A+wNG+D3gLVdH0nU7
++w1ee+1DTor28mHia/TzZHUFmwJMDJPav4pxeYY6OLqxjWkkpS6vu/M/pLHcX57g8ZUwtCcFCDsl
+7KnoktNXE0v+FHfDcf8AML1f/wAKjUf/AI7XP/aWYL/l9L73/mcn+u3ES/5eQ/8ABVP/AORPJvi/
+4W8FfDXRvDF3ovgi58T6t4r8eaX4C03T9U+JOq6JaQzag7Ik0tzHFcuqKVGQsLHB46YPsZFHGZvj
+5YSrip04xp1KjavJ2pQc2lFyjdtKy95anNjuP+IMFgKuOlOD5ORW9lT1c6kKa15dEnO70ei2NfQ/
+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
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/button2E.jpg
+
+/9j/4AAQSkZJRgABAAEAUQBRAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD/2wCE
+AAICAgICAgICAgICAgICAgQCAgICAgQDAwIEBQUGBgUFBQUGBwkHBgYIBgUFCAoICAkJCgoKBgcL
+DAsKDAkKCgkBAgICAgICBAICBAkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJ
+CQkJCQkJCQkJCQkJCQkJCf/+AB4CAAAAAgAAAAQAAABjAAAAAwAAAAQAAAAAAAAA/8QBogAAAQUB
+AQEBAQEAAAAAAAAAAAECAwQFBgcICQoLAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgsQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+hEAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLR
+ChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn
+6Onq8vP09fb3+Pn6/8AAEQgAGABkAwERAAIRAQMRAf/aAAwDAQACEQMRAD8A+wNG+D3gLVdH0nU7
++w1ee+1DTor28mHia/TzZHUFmwJMDJPav4pxeYY6OLqxjWkkpS6vu/M/pLHcX57g8ZUwtCcFCDsl
+7KnoktNXE0f+FHfDcD/kF6vx/wBTRqP/AMdrmlmeYQi37aWnm/8AM5FxtxF/z8h/4Kp//Inyl4av
+RrngVfis/wACfP8Ah5DPqLagnhj456tqfi20s7G4ngmuU0uewtreba1szmJL3zNmdgkcCNvscVgM
+PgsXTyzEZrOFacKck5U2qSdSEZpSmqsppJSScvZNJ7pRvJedHxB4ur1MTDAU4VPZVKlNR5KUZzdO
+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
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/button2.jpg
+
+/9j/4AAQSkZJRgABAAEAVwBXAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD/2wCE
+AAICAgICAgICAgICAgICAgQCAgICAgQDAwIEBQUGBgUFBQUGBwkHBgYIBgUFCAoICAkJCgoKBgcL
+DAsKDAkKCgkBAgICAgICBAICBAkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJ
+CQkJCQkJCQkJCQkJCQkJCf/+AB4CAAAAAgAAAAQAAABjAAAAAwAAAAQAAAAAAAAA/8QBogAAAQUB
+AQEBAQEAAAAAAAAAAAECAwQFBgcICQoLAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgsQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+hEAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLR
+ChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn
+6Onq8vP09fb3+Pn6/8AAEQgAFABkAwERAAIRAQMRAf/aAAwDAQACEQMRAD8A+z9D+FvgLUtE0fUb
+/QDc31/pkN3eXD6xqAa4kdQWYgTAZJOeBX8U4rMcwhi6sY15JKUvtPu/M/ovH8UZ7hcbVw1Csowg
+7JclPRLZawNT/hT/AMNx/wAyyOP+ozqP/wAern/tLMf+f8v/AAJ/5nH/AK3cRf8AQQv/AAXT/wDk
+A/4U/wDDf/oWR/4OdR/+PUf2lmP/AD/n/wCBP/MP9buIv+ghf+C6f/yB4d8FfB/hrxZd/GSLxDpY
+1BPCvxp1bwnoCm9uYP7P0+3htWhgzFIu/a0sh3vuc7uWOBj6DOKtfCZflVbD1ZKVahzzfPJ3l7Wr
+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
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/button31.jpg
+
+/9j/4AAQSkZJRgABAAEAUQBRAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD/2wCE
+AAICAgICAgICAgICAgICAgQCAgICAgQDAwIEBQUGBgUFBQUGBwkHBgYIBgUFCAoICAkJCgoKBgcL
+DAsKDAkKCgkBAgICAgICBAICBAkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJ
+CQkJCQkJCQkJCQkJCQkJCf/+AB4CAAAAAgAAAAQAAABjAAAAAwAAAAQAAAAAAAAA/8QBogAAAQUB
+AQEBAQEAAAAAAAAAAAECAwQFBgcICQoLAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgsQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+hEAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLR
+ChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn
+6Onq8vP09fb3+Pn6/8AAEQgAGABkAwERAAIRAQMRAf/aAAwDAQACEQMRAD8A+wNG+D3gLVdH0nU7
++w1ee+1DTor28mHia/TzZHUFmwJMDJPav4pxeYY6OLqxjWkkpS6vu/M/pLHcX57g8ZUwtCcFCDsl
+7KnoktNXE0v+FHfDcf8AML1f/wAKjUf/AI7XP/aWYL/l9L73/mcn+u3ES/5eQ/8ABVP/AORD/hR3
+w3H/ADC9X/8ACo1H/wCO0f2lj1/y+l97/wAw/wBduIv+fkP/AAVT/wDkTwzxf4d0vT/ilp3ws8D/
+AA007xHqV34Dl8e3Op+KvjPrfh22toY7xbUwotvYXrSOWdWydgxn0597LoTr5RiM4x+NqQhSqQp2
+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
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/button37.jpg
+
+/9j/4AAQSkZJRgABAAEAVwBXAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD/2wCE
+AAICAgICAgICAgICAgICAgQCAgICAgQDAwIEBQUGBgUFBQUGBwkHBgYIBgUFCAoICAkJCgoKBgcL
+DAsKDAkKCgkBAgICAgICBAICBAkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJ
+CQkJCQkJCQkJCQkJCQkJCf/+AB4CAAAAAgAAAAQAAABjAAAAAwAAAAQAAAAAAAAA/8QBogAAAQUB
+AQEBAQEAAAAAAAAAAAECAwQFBgcICQoLAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgsQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+hEAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLR
+ChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn
+6Onq8vP09fb3+Pn6/8AAEQgAGABkAwERAAIRAQMRAf/aAAwDAQACEQMRAD8A+wNG+D3gLVNH0nU7
+6w1ee+v9OivbyYeJr9PNkdQWbAkwMk9q/inF5hjoYurGNaSSlLq+78z+kcdxfnuCxlTC0JwUIOyX
+sqeiS01cThvDfhL4b6/8SfiV8Pf+EU1e0/4V5aaJdf2v/wAJxqMv9sf2nBLLjycjyvL8nGd77t2f
+lxg91WOYUMkw2cfWZP2tSrDl109mqbve+vNz7WVrbu+nly8QOIqeZLLuaH8KNW/sqf2qlSHLbk6e
+zve/W1tLvP8AAWjfCbxdpXxH1nV9Bu/COl/Db4h654H1HUdR+Id61q0Gksokv5ZXaNbdGVixViwQ
+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
+CSi3f4572S7+SP/Z
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/button3A.jpg
+
+/9j/4AAQSkZJRgABAAEAUQBRAAD//gAfTEVBRCBUZWNobm9sb2dpZXMgSW5jLiBWMS4wMQD/2wCE
+AAICAgICAgICAgICAgICAgQCAgICAgQDAwIEBQUGBgUFBQUGBwkHBgYIBgUFCAoICAkJCgoKBgcL
+DAsKDAkKCgkBAgICAgICBAICBAkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJ
+CQkJCQkJCQkJCQkJCQkJCf/+AB4CAAAAAgAAAAQAAABjAAAAAwAAAAQAAAAAAAAA/8QBogAAAQUB
+AQEBAQEAAAAAAAAAAAECAwQFBgcICQoLAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgsQAAIB
+AwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBka
+JSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SV
+lpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX2
+9/j5+hEAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLR
+ChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn
+6Onq8vP09fb3+Pn6/8AAEQgAGABkAwERAAIRAQMRAf/aAAwDAQACEQMRAD8A+wNG+D3gLVdH0nU7
++w1ee+1DTor28mHia/TzZHUFmwJMDJPav4pxeYY6OLqxjWkkpS6vu/M/pLHcX57g8ZUwtCcFCDsl
+7KnoktNXE8/+Ivhf4c+C7zwp4a0LwZr3i/x5471Caw8K+GYvHN7p9v5dvH5t3fX12zv9lsbdNvmS
+LHNIWkiSOKR3C13ZTDMcyderUxTp0aEeepNuTsnJRUYpfFUm3aEdE7NylGMZSXn4jjzP8Jh/bTqQ
+bb5YRVKnec2m1Fe7ZWScpSbSjFN6u0ZavhT4Tw3FxqUPj/4dad4Xt7a0jurDVPCvxm1bxFZXPLiW
+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
+/9k=
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/Softpedia_Free.gif
+
+R0lGODlhqgB0APcAAAQCBPSOBHyClFzKlAROFCRCfFxmhLTC1LTizJSmnERWfDxipNzi7JSivOT2
+7AyCTMzS1KSyzDxWTMSaRAQOTDRSnLS6zGSCvFxynOz69DSmbDRKhFRyrMTS5BQubERinCyaZKRy
+NMTK3Ozq7Jyy3Ax6RDxalIyWtARqNDRSjFRupPT2/CSSXKSy1AQeXKy+3PT6/CxKjNze5FRqlDxe
+pISazHyKrJzOtBxKNCxGhLzG5KyytExmpKSuxPTy9NTa3Ky61Gx+rCQ+ZOTq9DR6VDxenPz+/AQy
+FPyuBISWjARaJCxGfExijLzC1Mzq3Gy2jDxShERipOTm7JSmzByKVMzS3Ky2zCxmRJyObAQWTGx6
+lEy2fDROhMzW5ERmnEyadMTO5ERelHySvDxWjBSaXKy21AwmXPz6/DROjNTa7FxulIyezMTGxPT2
+9LS+1Fx6tCQ6dOzu9FR2ZHcAZzj4AAHnADAYAAAAADpvAC5gAAkJAHd3AFB0OJhg4oQJNn13AAAE
+AACY4ACENgB9AAAAwAAA6DAAGAAAAMAAMicBMD0AMQAAMQD1HAC/6QB4GAB1AADQuwDnPwAYgAAA
+dQD1OQC/1QB4qgB1EgrM/gD7/wAY/wAA/wDdOwADwQANeAB3dQDkeQCywQCUeAAKdXD+OPD/4j7/
+NgD/AFAI8wHoojAYdwAAdQBeVQAa/QB2ygB1ZwACAAAAADAAAAAAAFAAAAEBADAAAAAAAAAgAADo
+AAAYAAAAAAAyJAC/6QB4GAB1AFA0AQEAADAAAADAAALl/ADp6AAYGAIAAOEMIByhAABPAAAAAHVQ
+zAAA+wAAGHUAAHNIuwDpPwAYgAAAdbrGgdu/tgh4pQB1EgBw/gK9/wBP/wAA/wOc8wDIogBPdwAA
+dZQ0iOcAgRgAQgDAAHNEOADo4gAYNgAAAHUAAAABAAAAAAAAAJjn5Uu/6Vl4GAV1AOcBi6EAvwgA
+eE4AdXMAMQAA/QAAygAAZ6AMi0sAv1kAeAUAdbAuanBncbVpSAVmACH5BAEAAAAALAAAAACqAHQA
+Bwj/AAEIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmyJEIgQFpMWcmyZQQg
+FkzKnBkygoU1a6a0eMGzTBkSJHzy1NGiRs4IEWgqXSoRSIQ1NV6I0NFDzJsZPLx8+BAmTJEPNqa4
+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
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.missouristate.edu/styles/global.css
+
+BODY {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #faf9f5; MARGIN: 0px; =
+FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: black; FONT-SIZE: 75%
+}
+CODE {
+	BORDER-BOTTOM: #d9d9ce 1px solid; BORDER-LEFT: #d9d9ce 1px solid; =
+PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #f0eee4; MARGIN-TOP: 0.9em; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; FONT-FAMILY: =
+courier new, monospace; MARGIN-BOTTOM: 0.9em; FONT-SIZE: 90%; =
+BORDER-TOP: #d9d9ce 1px solid; BORDER-RIGHT: #d9d9ce 1px solid; =
+PADDING-TOP: 5px
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+A:active {
+	COLOR: #808080
+}
+A:visited {
+	COLOR: #666652
+}
+DD {
+	MARGIN-BOTTOM: 0.5em
+}
+DT {
+	MARGIN-BOTTOM: 0.5em
+}
+LI {
+	MARGIN-BOTTOM: 0.5em
+}
+DL {
+	PADDING-LEFT: 30px
+}
+OL {
+	PADDING-LEFT: 30px
+}
+UL {
+	PADDING-LEFT: 30px
+}
+FORM FIELDSET {
+	BORDER-BOTTOM: #d9d9ce 1px solid; BORDER-LEFT: #d9d9ce 1px solid; =
+PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; =
+BORDER-TOP: #d9d9ce 1px solid; BORDER-RIGHT: #d9d9ce 1px solid; =
+PADDING-TOP: 10px
+}
+FORM FIELDSET LEGEND {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif; COLOR: #000000; =
+FONT-WEIGHT: bold
+}
+FIELDSET FIELDSET {
+	CLEAR: left
+}
+FORM DL {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: =
+0px; FLOAT: left; PADDING-TOP: 0px
+}
+FORM FIELDSET DL {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: =
+0px; FLOAT: left; PADDING-TOP: 0px
+}
+DL.TwoColumn {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: =
+0px; FLOAT: left; PADDING-TOP: 0px
+}
+DIV.NewsLinkList DL {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: =
+0px; FLOAT: left; PADDING-TOP: 0px
+}
+FORM DIV DL {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: =
+0px; FLOAT: left; PADDING-TOP: 0px
+}
+DIV.NewsLinkList DL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px
+}
+FORM DT {
+	TEXT-ALIGN: right; MARGIN: 0px 5px 5px 0px; WIDTH: 150px; FLOAT: left; =
+CLEAR: both
+}
+DL.TwoColumn DT {
+	TEXT-ALIGN: right; MARGIN: 0px 5px 5px 0px; WIDTH: 150px; FLOAT: left; =
+CLEAR: both
+}
+FORM DIV DT {
+	TEXT-ALIGN: right; MARGIN: 0px 5px 5px 0px; WIDTH: 150px; FLOAT: left; =
+CLEAR: both
+}
+FORM DD {
+	MARGIN: 0px 0px 10px; FLOAT: none
+}
+DL.TwoColumn DD {
+	MARGIN: 0px 0px 10px; FLOAT: none
+}
+FORM DIV DD {
+	MARGIN: 0px 0px 10px; FLOAT: none
+}
+FORM DL.NoMargin {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+FORM SPAN.ElementNote {
+	FONT-STYLE: italic
+}
+FORM UL.ElementListH {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: =
+0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; =
+PADDING-TOP: 0px
+}
+FORM UL.ElementListV {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: =
+0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; =
+PADDING-TOP: 0px
+}
+UL.ElementListH {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: =
+0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; =
+PADDING-TOP: 0px
+}
+UL.ElementListV {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: =
+0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; =
+PADDING-TOP: 0px
+}
+FORM UL.ElementListH LI {
+	PADDING-RIGHT: 10px; DISPLAY: block; FLOAT: left
+}
+UL.ElementListH LI {
+	PADDING-RIGHT: 10px; DISPLAY: block; FLOAT: left
+}
+FORM UL.ElementListV LI {
+	DISPLAY: block
+}
+UL.ElementListH LI {
+	DISPLAY: block
+}
+H3 {
+	MARGIN: 0.9em 0px
+}
+H4 {
+	MARGIN: 0.9em 0px
+}
+H5 {
+	MARGIN: 0.9em 0px
+}
+H6 {
+	MARGIN: 0.9em 0px
+}
+P {
+	MARGIN: 0.9em 0px
+}
+FIELDSET {
+	MARGIN: 0.9em 0px
+}
+FORM {
+	MARGIN: 0.9em 0px
+}
+OL {
+	MARGIN: 0.9em 0px
+}
+DL {
+	MARGIN: 0.9em 0px
+}
+UL {
+	MARGIN: 0.9em 0px
+}
+DIR {
+	MARGIN: 0.9em 0px
+}
+MENU {
+	MARGIN: 0.9em 0px
+}
+H1 {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+H2 {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+H3 {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+H4 {
+	FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+H1 {
+	MARGIN: 0px; FONT-SIZE: 2.5em; FONT-WEIGHT: normal
+}
+H2 {
+	PADDING-BOTTOM: 0.4em; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px; FONT-SIZE: 1.9em; PADDING-TOP: 0.1em
+}
+H3 {
+	MARGIN-TOP: 1.15em; FONT-SIZE: 1.15em
+}
+H4 {
+	MARGIN-TOP: 1em; FONT-SIZE: 1em
+}
+H5 {
+	MARGIN-TOP: 1em; FONT-SIZE: 1em
+}
+H6 {
+	FONT-STYLE: italic; MARGIN-TOP: 1em; FONT-SIZE: 1em; FONT-WEIGHT: =
+normal
+}
+HR {
+	BORDER-BOTTOM: #b3b3aa; BORDER-LEFT: #b3b3aa; BACKGROUND-COLOR: =
+#b3b3aa; HEIGHT: 1px; COLOR: #b3b3aa; BORDER-TOP: #b3b3aa; BORDER-RIGHT: =
+#b3b3aa
+}
+OL UL {
+	MARGIN-TOP: 0.5em; MARGIN-BOTTOM: 0.5em
+}
+UL OL {
+	MARGIN-TOP: 0.5em; MARGIN-BOTTOM: 0.5em
+}
+UL UL {
+	MARGIN-TOP: 0.5em; MARGIN-BOTTOM: 0.5em
+}
+OL OL {
+	MARGIN-TOP: 0.5em; MARGIN-BOTTOM: 0.5em
+}
+TABLE {
+	BORDER-COLLAPSE: collapse
+}
+TD {
+	BORDER-BOTTOM: #b3b3aa 1px solid; BORDER-LEFT: #b3b3aa 1px solid; =
+PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; =
+EMPTY-CELLS: show; VERTICAL-ALIGN: top; BORDER-TOP: #b3b3aa 1px solid; =
+BORDER-RIGHT: #b3b3aa 1px solid; PADDING-TOP: 5px
+}
+TH {
+	BORDER-BOTTOM: #b3b3aa 1px solid; BORDER-LEFT: #b3b3aa 1px solid; =
+PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; =
+EMPTY-CELLS: show; VERTICAL-ALIGN: top; BORDER-TOP: #b3b3aa 1px solid; =
+BORDER-RIGHT: #b3b3aa 1px solid; PADDING-TOP: 5px
+}
+HTML[xmlns] #Masthead {
+	PADDING-BOTTOM: 5px
+}
+HTML[xmlns] .MozClear {
+	BORDER-BOTTOM: transparent 1px solid; MARGIN-BOTTOM: -1px
+}
+* HTML #InnerColumnContainer {
+	POSITION: relative
+}
+* HTML #PageWrapper {
+=09
+}
+.Center {
+	TEXT-ALIGN: center
+}
+.CenterWrapper {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 10px; BACKGROUND-COLOR: white; =
+PADDING-LEFT: 5px; WIDTH: 756px; PADDING-RIGHT: 5px; MARGIN-LEFT: auto; =
+MARGIN-RIGHT: auto; PADDING-TOP: 10px
+}
+.Clear {
+	CLEAR: both
+}
+.Error {
+	COLOR: red; FONT-WEIGHT: bold
+}
+.FirstChild {
+	MARGIN-TOP: 0.9em; CLEAR: both
+}
+.FLeft {
+	FLOAT: left
+}
+.FNone {
+	FLOAT: none
+}
+.FSmall {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 85%
+}
+.MLeftNeg10 {
+	MARGIN-LEFT: -10px
+}
+.MLeft10 {
+	MARGIN-LEFT: 10px
+}
+.MLeftRight5 {
+	MARGIN-LEFT: 5px; MARGIN-RIGHT: 5px
+}
+.MRight10 {
+	MARGIN-RIGHT: 10px
+}
+.MTopZero {
+	MARGIN-TOP: 0px !important
+}
+.MBottomZero {
+	MARGIN-BOTTOM: 0px !important
+}
+.MBottom10 {
+	MARGIN-BOTTOM: 10px
+}
+.MBottom5 {
+	MARGIN-BOTTOM: 5px
+}
+.MTop5 {
+	MARGIN-TOP: 5px
+}
+.MTopStandard {
+	MARGIN-TOP: 0.9em
+}
+.MAll5 {
+	MARGIN: 5px
+}
+.NavLinks A {
+	TEXT-DECORATION: none
+}
+.NavLinks A:hover {
+	TEXT-DECORATION: underline
+}
+.PaddingLeft {
+	PADDING-LEFT: 2px
+}
+.PSmall {
+	PADDING-BOTTOM: 6px; PADDING-TOP: 3px
+}
+.PLeft10 {
+	PADDING-LEFT: 10px
+}
+.PRight10 {
+	PADDING-RIGHT: 10px
+}
+.PLeft20 {
+	PADDING-LEFT: 20px
+}
+.PLeftRight5 {
+	PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.PAll5 {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; =
+PADDING-TOP: 5px
+}
+.PAll10 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; =
+PADDING-TOP: 10px
+}
+.PMedium {
+	PADDING-BOTTOM: 6px; PADDING-TOP: 6px
+}
+.PRight10 {
+	PADDING-RIGHT: 10px
+}
+.Policy .PolicyTitle {
+	FONT-STYLE: italic; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: =
+#707070; FONT-SIZE: 100%; FONT-WEIGHT: normal
+}
+.PTop10 {
+	PADDING-TOP: 10px
+}
+.PTop20 {
+	PADDING-TOP: 20px
+}
+.PTopBottom5 {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.PBottom5 {
+	PADDING-BOTTOM: 5px
+}
+.PBottom10 {
+	PADDING-BOTTOM: 10px
+}
+.Right {
+	TEXT-ALIGN: right
+}
+.Serif {
+	FONT-FAMILY: times, serif; FONT-SIZE: 110%
+}
+.Serif H3 {
+	FONT-FAMILY: times, serif !important
+}
+.Serif H4 {
+	FONT-FAMILY: times, serif !important
+}
+.Serif H4 {
+	FONT-FAMILY: times, serif !important
+}
+.Serif H6 {
+	FONT-FAMILY: times, serif !important
+}
+.SystemShaded {
+	BACKGROUND-COLOR: #f0eee4
+}
+.SystemBordered {
+	BORDER-BOTTOM: #d9d9ce 1px solid; BORDER-LEFT: #d9d9ce 1px solid; =
+BORDER-TOP: #d9d9ce 1px solid; BORDER-RIGHT: #d9d9ce 1px solid
+}
+.Tagline {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #7d7d75; =
+FONT-SIZE: 85%
+}
+.Tagline IMG {
+	PADDING-RIGHT: 3px; VERTICAL-ALIGN: baseline
+}
+DIV.ColumnSgl > *:first-child {
+	MARGIN-TOP: 0.9em
+}
+DIV.ColumnDbl > *:first-child {
+	MARGIN-TOP: 0.9em
+}
+DIV.ColumnTrpl > *:first-child {
+	MARGIN-TOP: 0.9em
+}
+DIV.ColumnQuad > *:first-child {
+	MARGIN-TOP: 0.9em
+}
+DIV.ColumnTrplHalf > *:first-child {
+	MARGIN-TOP: 0.9em
+}
+DIV.ColumnQuadThird > *:first-child {
+	MARGIN-TOP: 0.9em
+}
+DIV.ColumnQuadTwoThirds > *:first-child {
+	MARGIN-TOP: 0.9em
+}
+DIV.ColumnSgl {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 5px; FLOAT: left; OVERFLOW: visible; PADDING-TOP: 0px
+}
+DIV.ColumnDbl {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 5px; FLOAT: left; OVERFLOW: visible; PADDING-TOP: 0px
+}
+DIV.ColumnTrpl {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 5px; FLOAT: left; OVERFLOW: visible; PADDING-TOP: 0px
+}
+DIV.ColumnQuad {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 5px; FLOAT: left; OVERFLOW: visible; PADDING-TOP: 0px
+}
+DIV.ColumnTrplHalf {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 5px; FLOAT: left; OVERFLOW: visible; PADDING-TOP: 0px
+}
+DIV.ColumnQuadThird {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 5px; FLOAT: left; OVERFLOW: visible; PADDING-TOP: 0px
+}
+DIV.ColumnQuadTwoThirds {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 5px; FLOAT: left; OVERFLOW: visible; PADDING-TOP: 0px
+}
+DIV.ColumnSgl {
+	WIDTH: 179px
+}
+DIV.ColumnSgl DIV.ColumnSgl {
+	WIDTH: 169px
+}
+DIV.ColumnDbl {
+	WIDTH: 368px
+}
+DIV.ColumnSgl UL {
+	MARGIN-LEFT: -0.9em
+}
+DIV.ColumnDbl FORM DD {
+	WIDTH: 213px
+}
+DIV.ColumnDbl DL.TwoColumn DD {
+	WIDTH: 213px
+}
+DIV.ColumnDbl FORM FIELDSET DD {
+	WIDTH: 200px
+}
+DIV.ColumnDblNoPadding {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 378px; PADDING-RIGHT: =
+0px; FLOAT: left; PADDING-TOP: 0px
+}
+DIV.ColumnTrpl {
+	WIDTH: 557px
+}
+DIV.ColumnTrplNoPadding {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 567px; PADDING-RIGHT: =
+0px; FLOAT: left; PADDING-TOP: 0px
+}
+DIV.ColumnTrpl FORM DD {
+	WIDTH: 402px
+}
+DIV.ColumnTrpl DL.TwoColumn DD {
+	WIDTH: 402px
+}
+FORM DIV.ColumnTrpl DD {
+	WIDTH: 402px
+}
+DIV.ColumnTrpl FORM DD DD {
+	WIDTH: 247px !important
+}
+DIV.ColumnTrpl FORM FIELDSET DL DD {
+	WIDTH: 375px
+}
+FORM DIV.ColumnTrpl FIELDSET DD {
+	WIDTH: 375px
+}
+DIV.ColumnTrpl FORM FIELDSET FIELDSET DL DD {
+	WIDTH: 355px
+}
+DIV.ColumnTrpl FORM DL DD DIV.Example {
+	WIDTH: 150px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; =
+FLOAT: right; FONT-SIZE: 80%
+}
+DIV.ColumnQuad FORM DL DD DIV.Example {
+	WIDTH: 250px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; =
+FLOAT: right; FONT-SIZE: 80%
+}
+DIV.ColumnQuad {
+	WIDTH: 746px
+}
+DIV.ColumnQuadNoPadding {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 756px; PADDING-RIGHT: =
+0px; FLOAT: left; PADDING-TOP: 0px
+}
+DIV.ColumnQuad FORM DD {
+	WIDTH: 591px
+}
+DIV.ColumnQuad DL.TwoColumn DD {
+	WIDTH: 591px
+}
+DIV.ColumnQuad FORM FIELDSET DD {
+	WIDTH: 550px
+}
+DIV.ColumnTrplHalf {
+	WIDTH: 273px
+}
+DIV.ColumnQuadThird {
+	WIDTH: 242px
+}
+DIV.ColumnQuadTwoThirds {
+	WIDTH: 494px
+}
+DIV.ColumnQuad DIV.ColumnQuadThird {
+	WIDTH: 232px
+}
+DIV.ColumnQuad DIV.ColumnQuadTwoThirds {
+	WIDTH: 487px
+}
+DIV.Fieldset {
+	BORDER-BOTTOM: #96968d 1px dotted; POSITION: relative; BORDER-LEFT: =
+#96968d 1px dotted; MARGIN-BOTTOM: 25px; BORDER-TOP: #96968d 1px dotted; =
+BORDER-RIGHT: #96968d 1px dotted
+}
+DIV.Fieldset DIV.Content {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 25px 15px 15px; =
+PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; =
+PADDING-TOP: 0px
+}
+DIV.Fieldset .Legend {
+	Z-INDEX: 2; POSITION: absolute; TOP: -11px; LEFT: 15px
+}
+DIV.Fieldset .InnerImg {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 15px; =
+PADDING-TOP: 0px
+}
+DIV.FRight {
+	FLOAT: right
+}
+.FRight {
+	FLOAT: right
+}
+DIV#Masthead H1 {
+	DISPLAY: inline
+}
+DIV.LeftColumn {
+	PADDING-LEFT: 0px
+}
+DIV.LinkList UL {
+	MARGIN-BOTTOM: 0px
+}
+DIV.LinkList LI {
+	PADDING-BOTTOM: 1em; FONT-WEIGHT: bold
+}
+DIV.LinkList LI {
+	LIST-STYLE-TYPE: none; MARGIN-LEFT: -20px; LIST-STYLE-IMAGE: none
+}
+DIV.LinkListButton LI {
+	LIST-STYLE-TYPE: none; MARGIN-LEFT: -20px; LIST-STYLE-IMAGE: none
+}
+DIV.LinkList LI A {
+	BORDER-BOTTOM: #d9d7ce 1px solid; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none
+}
+DIV#OnTheWeb DIV A {
+	BORDER-BOTTOM: #d9d7ce 1px solid; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none
+}
+DIV.LinkList SPAN.Location {
+	FONT-WEIGHT: normal
+}
+DIV.LinkListButton IMG {
+	VERTICAL-ALIGN: middle
+}
+UL.FeatureButton IMG {
+	VERTICAL-ALIGN: middle
+}
+DIV.LinkListButton IMG {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; =
+PADDING-TOP: 0px
+}
+DIV.LinkListButton A {
+	PADDING-BOTTOM: 3px; FONT-FAMILY: verdana, arial, helvetica, =
+sans-serif; COLOR: #96968d; FONT-SIZE: 90%; FONT-WEIGHT: bold; =
+TEXT-DECORATION: none
+}
+UL.FeatureButton A {
+	PADDING-BOTTOM: 3px; FONT-FAMILY: verdana, arial, helvetica, =
+sans-serif; COLOR: #96968d; FONT-SIZE: 90%; FONT-WEIGHT: bold; =
+TEXT-DECORATION: none
+}
+DIV.MyMissouriState {
+	BACKGROUND-IMAGE: =
+url(http://www.missouristate.edu/images/mymissouristate/Promobackground.j=
+pg); LINE-HEIGHT: 1.5em; BACKGROUND-COLOR: #d6eae9; WIDTH: 179px; =
+BACKGROUND-REPEAT: no-repeat; HEIGHT: 175px; COLOR: #526a69; CURSOR: =
+pointer
+}
+DIV.MyMissouriState P {
+	MARGIN: 5px 0px 0px 15px
+}
+DIV.MyMissouriState UL {
+	LIST-STYLE: none none outside; BORDER-LEFT: medium none; MARGIN: 0px; =
+PADDING-LEFT: 25px
+}
+DIV.MyMissouriState UL LI {
+	MARGIN-BOTTOM: 0px
+}
+DIV.NewsLinkList DL DD A {
+	TEXT-DECORATION: none
+}
+DIV.NewsLinkList DL DT {
+	MARGIN: 0px 5px 5px 0px; WIDTH: 50px; FLOAT: left; CLEAR: both; =
+FONT-WEIGHT: bold
+}
+DIV.NewsLinkList DL DD {
+	PADDING-BOTTOM: 0.4em; MARGIN: 0px 0px 10px; WIDTH: 480px; FLOAT: left
+}
+DIV.ColumnDbl DIV.NewsLinkList DL DD {
+	WIDTH: 300px
+}
+DIV.Notice {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #ffff99; MARGIN-TOP: 3px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; MARGIN-BOTTOM: 3px; FONT-WEIGHT: =
+bold; PADDING-TOP: 5px
+}
+.Notice {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #ffff99; MARGIN-TOP: 3px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; MARGIN-BOTTOM: 3px; FONT-WEIGHT: =
+bold; PADDING-TOP: 5px
+}
+SPAN.Notice {
+	DISPLAY: block
+}
+.Shaded {
+	DISPLAY: block
+}
+DIV.PrintOnly {
+	DISPLAY: none
+}
+.PrintOnly {
+	DISPLAY: none
+}
+DIV.RightColumn {
+	PADDING-RIGHT: 0px
+}
+DIV.Testimonial IMG {
+	BORDER-BOTTOM: #d9d9ce 1px solid; BORDER-LEFT: #d9d9ce 1px solid; =
+MARGIN-BOTTOM: 2px; FLOAT: left; BORDER-TOP: #d9d9ce 1px solid; =
+MARGIN-RIGHT: 10px; BORDER-RIGHT: #d9d9ce 1px solid
+}
+DIV.Testimonial UL {
+	LIST-STYLE-TYPE: none; PADDING-LEFT: 0px; FONT-WEIGHT: bold; =
+LIST-STYLE-IMAGE: none
+}
+DIV.Testimonial {
+	PADDING-BOTTOM: 1px; MARGIN-TOP: 10px; PADDING-LEFT: 10px; =
+PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+DIV.MoreInfoLink {
+	TEXT-TRANSFORM: uppercase; MARGIN-BOTTOM: 0.9em; FONT-SIZE: 80%
+}
+DIV.MoreInfoLink A {
+	COLOR: #666652; TEXT-DECORATION: none
+}
+DIV.MoreInfoLink IMG {
+	PADDING-LEFT: 2px
+}
+DL.Feature {
+	BORDER-BOTTOM: #96968d 1px dotted; BORDER-LEFT: #96968d 1px dotted; =
+PADDING-BOTTOM: 0px; MARGIN: 0px 0px 5px; PADDING-LEFT: 0px; WIDTH: =
+177px; PADDING-RIGHT: 0px; HEIGHT: 36px; BORDER-TOP: #96968d 1px dotted; =
+BORDER-RIGHT: #96968d 1px dotted; PADDING-TOP: 0px
+}
+DL.Feature DT {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 9px; WIDTH: 30px; =
+PADDING-RIGHT: 8px; FLOAT: left; HEIGHT: 24px; CLEAR: both; PADDING-TOP: =
+5px
+}
+DL.Feature DD {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; MIN-HEIGHT: 0px; PADDING-LEFT: 0px; =
+WIDTH: 129px; PADDING-RIGHT: 0px; FONT-FAMILY: verdana, arial, =
+helvetica, sans-serif; FLOAT: left; HEIGHT: 20px; FONT-SIZE: 90%; =
+FONT-WEIGHT: bold; PADDING-TOP: 9px
+}
+DIV.ColumnTrpl FORM DL.Feature DD {
+	WIDTH: 129px
+}
+DIV.SystemShaded {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; =
+PADDING-TOP: 10px
+}
+DL.Feature DD.TwoLine {
+	PADDING-BOTTOM: 0px; MARGIN: 5px 0px; MIN-HEIGHT: 0px; PADDING-LEFT: =
+0px; WIDTH: 130px; PADDING-RIGHT: 0px; FONT-FAMILY: verdana, arial, =
+helvetica, sans-serif; FLOAT: left; HEIGHT: 24px; FONT-SIZE: 90%; =
+FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+DL.Feature DT IMG {
+	WIDTH: 30px; HEIGHT: 23px
+}
+DL.Feature A {
+	COLOR: #96968d; TEXT-DECORATION: none
+}
+DL.FullWidth DT {
+	TEXT-ALIGN: left; WIDTH: 99%; FLOAT: none
+}
+FORM DL.FullWidth DT {
+	TEXT-ALIGN: left; WIDTH: 99%; FLOAT: none
+}
+DL.FullWidth DD {
+	TEXT-ALIGN: left; MARGIN: 0px 0px 15px; WIDTH: 99%; FLOAT: none
+}
+FORM DL.FullWidth DD {
+	TEXT-ALIGN: left; MARGIN: 0px 0px 15px; WIDTH: 99%; FLOAT: none
+}
+DL.MemoFormat DT {
+	WIDTH: 10% !important; FONT-WEIGHT: bold
+}
+DL.MemoFormat DD {
+	WIDTH: 85% !important
+}
+FORM INPUT.FormButton {
+	MARGIN-LEFT: 155px
+}
+FORM DIV.FormButton {
+	MARGIN: 0px 0px 15px 155px; CLEAR: both
+}
+H3.Shaded {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: =
+12px; PADDING-TOP: 5px
+}
+H3.SystemShaded {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: =
+12px; PADDING-TOP: 5px
+}
+H3 > SPAN.Shaded {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: =
+12px; PADDING-TOP: 5px
+}
+H3.Shaded {
+	COLOR: white
+}
+.Shaded {
+	COLOR: white
+}
+H3.Shaded A {
+	COLOR: white
+}
+.Shaded A {
+	COLOR: white
+}
+H3.Shaded A:visited {
+	COLOR: white
+}
+H3.Shaded A:active {
+	COLOR: white
+}
+H3.Shaded A:link {
+	COLOR: white
+}
+.Shaded A:visited {
+	COLOR: white
+}
+.Shaded A:active {
+	COLOR: white
+}
+.Shaded A:link {
+	COLOR: white
+}
+P.SiteTitle {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; FONT-WEIGHT: =
+bold; PADDING-TOP: 0px
+}
+P.PageTagLine {
+	FONT-STYLE: italic; MARGIN-TOP: -5px
+}
+P.IssueDate {
+	MARGIN-BOTTOM: 0px
+}
+TABLE.NoBorder TD {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+TABLE.NoBorder TH {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+OL.Outline {
+	LIST-STYLE-TYPE: upper-roman; MARGIN-LEFT: 15px
+}
+OL.Outline OL {
+	LIST-STYLE-TYPE: upper-alpha; MARGIN-LEFT: -7px
+}
+OL.Outline OL OL {
+	LIST-STYLE-TYPE: decimal
+}
+OL.Outline OL OL OL {
+	LIST-STYLE-TYPE: lower-alpha
+}
+OL.Outline OL OL OL OL {
+	LIST-STYLE-TYPE: lower-roman
+}
+OL.OutlineAlpha {
+	LIST-STYLE-TYPE: upper-alpha
+}
+OL.OutlineAlpha OL {
+	LIST-STYLE-TYPE: decimal
+}
+OL.OutlineAlpha OL OL {
+	LIST-STYLE-TYPE: lower-alpha
+}
+OL.OutlineAlpha OL OL OL {
+	LIST-STYLE-TYPE: decimal
+}
+OL.OutlineAlpha OL OL OL OL {
+	LIST-STYLE-TYPE: lower-alpha
+}
+P.ChartHeading {
+	TEXT-ALIGN: right; FONT-FAMILY: verdana, arial, helvetica, sans-serif; =
+FONT-SIZE: 85%; FONT-WEIGHT: bold
+}
+SPAN.LikertField {
+	PADDING-RIGHT: 5px
+}
+SPAN.Weather IMG {
+	PADDING-LEFT: 10px; PADDING-RIGHT: 5px
+}
+TABLE.Center {
+	TEXT-ALIGN: center; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+TABLE.Center TD {
+	TEXT-ALIGN: left
+}
+TABLE.Center TH {
+	TEXT-ALIGN: left
+}
+TH.Shaded {
+	DISPLAY: table-cell
+}
+TD.Shaded {
+	DISPLAY: table-cell
+}
+TR.Shaded {
+	DISPLAY: table-row
+}
+TD.Total {
+	BORDER-TOP: black 1px solid
+}
+UL.AcademicEvents {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: =
+0px; PADDING-RIGHT: 0px; DISPLAY: block; FLOAT: left; LIST-STYLE-IMAGE: =
+none; PADDING-TOP: 0px
+}
+UL.AcademicEvents LI {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 1px; MARGIN: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; CLEAR: left; PADDING-TOP: 0px
+}
+UL.AcademicEvents UL {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 1px; LIST-STYLE-TYPE: none; MARGIN: =
+0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; =
+LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+UL.AcademicEvents UL LI {
+	PADDING-BOTTOM: 0.4em; LINE-HEIGHT: 1.2em; MARGIN: 0px; PADDING-LEFT: =
+5px; PADDING-RIGHT: 5px; FLOAT: left; CLEAR: none; PADDING-TOP: 0.4em
+}
+UL.AcademicEvents UL LI.Date {
+	WIDTH: 11em
+}
+UL.AcademicEvents UL LI.Time {
+	TEXT-ALIGN: right; WIDTH: 5em
+}
+UL.AcademicEvents UL LI.Name {
+	WIDTH: 230px
+}
+UL.AcademicEvents UL LI.Notes {
+	WIDTH: 5em
+}
+UL.EventsUL .EventDescription {
+	FONT-WEIGHT: normal
+}
+UL.FeatureButton IMG {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; =
+PADDING-TOP: 0px
+}
+UL.FeatureButton LI {
+	LIST-STYLE-TYPE: none; MARGIN-LEFT: -20px; LIST-STYLE-IMAGE: none; =
+PADDING-TOP: 0px
+}
+UL.NoBullet {
+	LIST-STYLE-TYPE: none; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: none
+}
+UL.Teaser {
+	LIST-STYLE-TYPE: none; PADDING-LEFT: 0px; MARGIN-LEFT: 0px; =
+LIST-STYLE-IMAGE: none
+}
+UL.Teaser LI {
+	MARGIN-BOTTOM: 1em
+}
+UL.Teaser LI DIV.TeaserDate {
+	FONT-STYLE: italic
+}
+UL.Teaser LI DIV.TeaserHeadline {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+FONT-FAMILY: verdana, arial, helvetica, sans-serif; FONT-SIZE: 1em; =
+FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+UL.TwoColumn {
+	PADDING-BOTTOM: 30px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: =
+0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+UL.TwoColumn LI {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 5px; WIDTH: 48%; =
+PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 5px
+}
+DIV.SocialMediaButton {
+	MARGIN-TOP: 3px; WIDTH: 179px; MARGIN-BOTTOM: 3px
+}
+DIV#LeftColumn DIV.SocialMediaButton {
+	PADDING-LEFT: 5px; WIDTH: 169px
+}
+DIV.SocialMediaButton A {
+	WIDTH: 179px; DISPLAY: table
+}
+DIV#LeftColumn DIV.SocialMediaButton A {
+	WIDTH: 169px
+}
+DIV.SocialMediaButton .ButtonContent {
+	BACKGROUND-COLOR: #e6e7e8; MIN-HEIGHT: 28px; DISPLAY: table-row; =
+FONT-FAMILY: arial, helvetica, sans-serif
+}
+DIV.SocialMediaButton .ButtonContent SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; DISPLAY: =
+table-cell; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+DIV.SocialMediaButton .ButtonContent .ButtonImage IMG {
+	FLOAT: left
+}
+DIV.SocialMediaButton .ButtonContent .ButtonImage {
+	BORDER-LEFT: #ffffff 1px solid; WIDTH: 28px; PADDING-RIGHT: 0px
+}
+DIV.SocialMediaButton .ButtonContent .ButtonText {
+	PADDING-LEFT: 5px; BORDER-RIGHT: #ffffff 1px solid
+}
+DIV.SocialMediaButton .ButtonTop {
+	WIDTH: 179px; DISPLAY: table-row; HEIGHT: 8px
+}
+DIV.SocialMediaButton .ButtonBottom {
+	WIDTH: 179px; DISPLAY: table-row; HEIGHT: 8px
+}
+DIV#LeftColumn DIV.SocialMediaButton .ButtonTop {
+	WIDTH: 169px
+}
+DIV#LeftColumn DIV.SocialMediaButton .ButtonBottom {
+	WIDTH: 169px
+}
+DIV.SocialMediaButton .ButtonTop SPAN {
+	DISPLAY: table-cell; HEIGHT: 8px
+}
+DIV.SocialMediaButton .ButtonBottom SPAN {
+	DISPLAY: table-cell; HEIGHT: 8px
+}
+DIV.SocialMediaButton .ButtonTop {
+	BACKGROUND-IMAGE: =
+url(http://www.missouristate.edu/images/socialmedia-BTNtop179.png)
+}
+DIV#LeftColumn DIV.SocialMediaButton .ButtonTop {
+	BACKGROUND-IMAGE: =
+url(http://www.missouristate.edu/images/socialmedia-BTNtop.png)
+}
+DIV.SocialMediaButton .ButtonBottom {
+	BACKGROUND-IMAGE: =
+url(http://www.missouristate.edu/images/socialmedia-BTNbottom179.png)
+}
+DIV#LeftColumn DIV.SocialMediaButton .ButtonBottom {
+	BACKGROUND-IMAGE: =
+url(http://www.missouristate.edu/images/socialmedia-BTNbottom.png)
+}
+DIV.SocialMediaButton .ButtonTop .ButtonRight {
+	BACKGROUND-IMAGE: =
+url(http://www.missouristate.edu/images/socialmedia-BTNtopR143.png)
+}
+DIV#LeftColumn DIV.SocialMediaButton .ButtonTop .ButtonRight {
+	BACKGROUND-IMAGE: =
+url(http://www.missouristate.edu/images/socialmedia-BTNtopR133.png)
+}
+DIV.SocialMediaButton .ButtonBottom .ButtonRight {
+	BACKGROUND-IMAGE: =
+url(http://www.missouristate.edu/images/socialmedia-BTNbottomR143.png)
+}
+DIV#LeftColumn DIV.SocialMediaButton .ButtonBottom .ButtonRight {
+	BACKGROUND-IMAGE: =
+url(http://www.missouristate.edu/images/socialmedia-BTNbottomR133.png)
+}
+DIV.SocialMediaButton A .ButtonText {
+	COLOR: #630010; FONT-SIZE: 86%; TEXT-DECORATION: none
+}
+DIV.SocialMediaButton A:visited .ButtonText {
+	COLOR: #630010; FONT-SIZE: 86%; TEXT-DECORATION: none
+}
+DIV.SocialMediaButton A:link .ButtonText {
+	COLOR: #630010; FONT-SIZE: 86%; TEXT-DECORATION: none
+}
+DIV.SocialMediaButton A:hover .ButtonText {
+	TEXT-DECORATION: underline
+}
+DIV.SocialMediaButton A {
+	DISPLAY: block
+}
+DIV.SocialMediaButton .ButtonContent {
+	BORDER-LEFT: #ffffff 1px solid; DISPLAY: block; BORDER-RIGHT: #ffffff =
+1px solid
+}
+DIV.SocialMediaButton .ButtonContent .ButtonImage IMG {
+	PADDING-LEFT: 7px
+}
+DIV.SocialMediaButton .ButtonContent .ButtonText {
+	DISPLAY: block; FLOAT: left; BORDER-RIGHT: medium none
+}
+DIV.SocialMediaButton .ButtonTop {
+	DISPLAY: block
+}
+DIV.SocialMediaButton .ButtonBottom {
+	DISPLAY: block
+}
+.FeatureHWrapper {
+	POSITION: relative; PADDING-BOTTOM: 20px
+}
+.FeatureHWrapper .Corners {
+	POSITION: relative; BACKGROUND-COLOR: #630016; MARGIN: 0px 4px; HEIGHT: =
+4px
+}
+.FeatureHWrapper .LCorner {
+	BACKGROUND-IMAGE: =
+url(https://www.missouristate.edu/images/2010/FeatureButtons/Corners.png)=
+; POSITION: absolute; WIDTH: 4px; HEIGHT: 4px; TOP: 0px; LEFT: -4px
+}
+.FeatureHWrapper .RCorner {
+	BACKGROUND-IMAGE: =
+url(https://www.missouristate.edu/images/2010/FeatureButtons/Corners.png)=
+; POSITION: absolute; WIDTH: 4px; BACKGROUND-POSITION: right top; =
+HEIGHT: 4px; TOP: 0px; RIGHT: -4px
+}
+.FeatureHWrapper DL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 175px; =
+PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.FeatureHWrapper DL DT {
+	WIDTH: 30px; HEIGHT: 23px
+}
+.FeatureHWrapper DL DD {
+	MARGIN: 0px; MIN-HEIGHT: 23px
+}
+.FeatureHWrapper .FeatureHeader {
+	POSITION: relative; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #630016; =
+PADDING-LEFT: 7px; PADDING-RIGHT: 7px; FONT-FAMILY: Arial, Helvetica, =
+sans-serif; COLOR: #ffffff; FONT-SIZE: 125%; FONT-WEIGHT: bold; =
+PADDING-TOP: 0px
+}
+#PageWrapper .FeatureHeader A:hover {
+	BORDER-BOTTOM: white 1px solid; TEXT-DECORATION: none
+}
+.FeatureHeader A {
+	BORDER-BOTTOM: transparent 1px solid; COLOR: white; TEXT-DECORATION: =
+none
+}
+.FeatureHeader A:visited {
+	BORDER-BOTTOM: transparent 1px solid; COLOR: white; TEXT-DECORATION: =
+none
+}
+.FeatureHeader A:active {
+	BORDER-BOTTOM: transparent 1px solid; COLOR: white; TEXT-DECORATION: =
+none
+}
+.FeatureHeader A:hover {
+	BORDER-BOTTOM: transparent 1px solid; COLOR: white; TEXT-DECORATION: =
+none
+}
+.FeatureHeader A:link {
+	BORDER-BOTTOM: transparent 1px solid; COLOR: white; TEXT-DECORATION: =
+none
+}
+.FeatureContent {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; =
+PADDING-BOTTOM: 25px; MARGIN-TOP: 0px; MARGIN-BOTTOM: 5px; BACKGROUND: =
+url(https://www.missouristate.edu/images/2010/FeatureButtons/BkGd.png) =
+#cccccc repeat-x 50% top; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: =
+#cccccc 1px solid; PADDING-TOP: 3px
+}
+.FeatureContent DL.TwoColumn {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; =
+PADDING-TOP: 0px
+}
+.FeatureContent A {
+	TEXT-DECORATION: none
+}
+.FeatureContent A:hover {
+	TEXT-DECORATION: underline
+}
+.FeatureContent DL.TwoColumn DT {
+	MARGIN-TOP: 0px; WIDTH: 27px; MARGIN-BOTTOM: 0px; FONT-WEIGHT: bold; =
+PADDING-TOP: 7px
+}
+.FeatureContent DL.TwoColumn DD.FYP {
+	WIDTH: 45px; PADDING-RIGHT: 98px
+}
+DIV.FeatureContent DL.TwoColumn DD {
+	MARGIN-TOP: 0px; WIDTH: 143px; MARGIN-BOTTOM: 0px; FONT-WEIGHT: bold; =
+PADDING-TOP: 11px
+}
+.FeatureContent A {
+	TEXT-DECORATION: none
+}
+.FeatureContent IMG.FYP {
+	POSITION: absolute; BOTTOM: 20px; RIGHT: -8px
+}
+#EventsUL .InnerNewsHeading {
+	MARGIN-BOTTOM: 5px; FONT-WEIGHT: bold
+}
+#EventsUL .EventInfo {
+	FONT-STYLE: italic; MARGIN-BOTTOM: 5px
+}
+#EventsUL {
+	LIST-STYLE-TYPE: none; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: none
+}
+#Keywords {
+	WIDTH: 99px
+}
+#PageWrapper {
+	WIDTH: auto; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#Footer {
+	POSITION: relative; TEXT-ALIGN: center; BACKGROUND-COLOR: #faf9f5; =
+FONT-SIZE: 80%
+}
+#Footer LI {
+	LIST-STYLE-TYPE: none; PADDING-LEFT: 1px; DISPLAY: inline; =
+LIST-STYLE-IMAGE: none
+}
+#Footer UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px; PADDING-TOP: 0px
+}
+#MastheadWrapper {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 746px; PADDING-RIGHT: =
+10px; PADDING-TOP: 0px
+}
+#Masthead {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 726px; PADDING-RIGHT: =
+10px; COLOR: white; PADDING-TOP: 10px
+}
+#Masthead IMG {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+PADDING-TOP: 0px
+}
+#Masthead A {
+	COLOR: white; TEXT-DECORATION: none
+}
+#Masthead .ColumnTrpl {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 547px; PADDING-RIGHT: =
+0px; PADDING-TOP: 0px
+}
+#ContentColumn {
+	MARGIN: 0px 0px 0px -6px; WIDTH: 567px
+}
+#InnerColumnContainer {
+	Z-INDEX: 2; WIDTH: 567px
+}
+#LeftColumn {
+	Z-INDEX: 10; POSITION: relative; FLOAT: left; OVERFLOW: visible
+}
+#ContentColumn {
+	Z-INDEX: 10; POSITION: relative; FLOAT: left; OVERFLOW: visible
+}
+#LeftColumn {
+	Z-INDEX: 50; PADDING-BOTTOM: 10px; MARGIN: 0px 6px 0px -184px; WIDTH: =
+184px
+}
+#OuterColumnContainer {
+	Z-INDEX: 1; BORDER-BOTTOM: 0px solid; BORDER-LEFT: #f0eee4 179px solid; =
+PADDING-LEFT: 5px; WIDTH: 567px; COLOR: #000; MARGIN-LEFT: 5px; =
+BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid
+}
+DIV#Breadcrumb {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 5px; MARGIN-TOP: 0px; FONT-FAMILY: =
+verdana, arial, helvetica, sans-serif; FONT-SIZE: 75%
+}
+DIV#LocalNav {
+	WIDTH: 159px; PADDING-RIGHT: 5px; FONT-FAMILY: verdana, arial, =
+helvetica, sans-serif; FONT-SIZE: 85%
+}
+DIV#LocalNav UL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+MARGIN-BOTTOM: 1.5em; PADDING-TOP: 0px
+}
+DIV#LocalNav UL LI {
+	BORDER-BOTTOM: #d9d9ce 1px solid; PADDING-BOTTOM: 4px; LIST-STYLE-TYPE: =
+none; PADDING-LEFT: 10px; WIDTH: 100%; PADDING-RIGHT: 10px; =
+MARGIN-BOTTOM: -1px; BORDER-TOP: #d9d9ce 1px solid; PADDING-TOP: 2px
+}
+DIV#LocalNav H3 {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; =
+PADDING-RIGHT: 0px; MARGIN-BOTTOM: -5px; FONT-SIZE: 1em; PADDING-TOP: =
+0px
+}
+DIV#LocalNav H4 {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; =
+PADDING-RIGHT: 0px; MARGIN-BOTTOM: -5px; FONT-SIZE: 1em; PADDING-TOP: =
+0px
+}
+DIV#LocalNav H5 {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; =
+PADDING-RIGHT: 0px; MARGIN-BOTTOM: -5px; FONT-SIZE: 1em; PADDING-TOP: =
+0px
+}
+DIV#LocalNav H6 {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; =
+PADDING-RIGHT: 0px; MARGIN-BOTTOM: -5px; FONT-SIZE: 1em; PADDING-TOP: =
+0px
+}
+DIV#LocalNav DIV.FirstChild {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; =
+PADDING-TOP: 0px
+}
+DIV#LocalNav DIV.FirstChild H3 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+PADDING-TOP: 0px
+}
+DIV#LocalNav DIV.FirstChild H4 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+PADDING-TOP: 0px
+}
+DIV#LocalNav DIV.FirstChild H5 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+PADDING-TOP: 0px
+}
+DIV#LocalNav DIV.FirstChild H6 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+PADDING-TOP: 0px
+}
+DIV#LocalNav DIV.FirstChild UL LI {
+	MARGIN-LEFT: -10px; MARGIN-RIGHT: -10px
+}
+DIV#NavPhoto IMG {
+	MARGIN-BOTTOM: -1em
+}
+IMG#NavPhoto {
+	MARGIN-BOTTOM: -1em
+}
+DIV#LeftColumn DIV.MP3Player {
+	MARGIN-LEFT: -10px
+}
+DIV#LeftColumn DIV.Slideshow {
+	MARGIN-LEFT: -10px
+}
+DIV#LeftColumn DIV.SWFPlayer {
+	MARGIN-LEFT: -10px
+}
+DIV#LeftColumn DIV.FLVPlayer {
+	MARGIN-LEFT: -10px
+}
+DIV#LeftColumn DIV.YouTubePlayer {
+	MARGIN-LEFT: -10px
+}
+DIV#LeftColumn DIV.RssFeed {
+	MARGIN-LEFT: -10px
+}
+DIV#player {
+	BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #666666 1px solid; =
+DISPLAY: block; BORDER-TOP: #666666 1px solid; BORDER-RIGHT: #666666 1px =
+solid
+}
+DIV#Search {
+	TEXT-ALIGN: justify; PADDING-BOTTOM: 0px; MARGIN-TOP: -12px; =
+PADDING-LEFT: 5px; WIDTH: 169px; PADDING-RIGHT: 5px; FLOAT: left; COLOR: =
+white; PADDING-TOP: 0px
+}
+DIV#Search A {
+	BORDER-BOTTOM: medium none; PADDING-RIGHT: 2px; COLOR: white
+}
+DIV#Search A:hover {
+	TEXT-DECORATION: underline
+}
+DIV#Search INPUT {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; MARGIN-BOTTOM: 3px; =
+FONT-SIZE: 90%
+}
+DIV#Search #SearchButton {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; =
+PADDING-TOP: 0px
+}
+DIV#Promo {
+	MARGIN-TOP: 0.9em; MARGIN-BOTTOM: 0.9em
+}
+P#Promo IMG {
+	BORDER-BOTTOM: #b3b3aa 1px solid; BORDER-LEFT: #b3b3aa 1px solid; =
+BORDER-TOP: #b3b3aa 1px solid; BORDER-RIGHT: #b3b3aa 1px solid
+}
+TABLE#at_tb1 TD {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+DIV#at_share TD {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+TABLE#at_foot TD {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+TABLE#at_tb1 TH {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+DIV#at_share TH {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+TABLE#at_foot TH {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none
+}
+UL.PopoutMenu UL {
+	BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; =
+PADDING-LEFT: 14px; WIDTH: 0px; PADDING-RIGHT: 0px; BACKGROUND: =
+url(https://www.missouristate.edu/images/bullets/BeigeTriangle.gif) =
+no-repeat 0px 5px; HEIGHT: 14px; OVERFLOW: visible; BORDER-TOP: medium =
+none; TOP: -1px; RIGHT: 0px; LIST-STYLE-IMAGE: none; BORDER-RIGHT: =
+medium none; PADDING-TOP: 0px
+}
+#LocalNav UL.PopoutMenu UL {
+	BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: medium =
+none; PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; =
+PADDING-LEFT: 14px; WIDTH: 0px; PADDING-RIGHT: 0px; BACKGROUND: =
+url(https://www.missouristate.edu/images/bullets/BeigeTriangle.gif) =
+no-repeat 0px 5px; HEIGHT: 14px; OVERFLOW: visible; BORDER-TOP: medium =
+none; TOP: -1px; RIGHT: 0px; LIST-STYLE-IMAGE: none; BORDER-RIGHT: =
+medium none; PADDING-TOP: 0px
+}
+UL.PopoutMenu UL {
+	Z-INDEX: 1; VISIBILITY: visible
+}
+UL.PopoutMenu UL UL {
+	VISIBILITY: hidden
+}
+UL.PopoutMenu LI {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: =
+auto; PADDING-RIGHT: 0px; TOP: 0px; PADDING-TOP: 0px
+}
+#LocalNav UL.PopoutMenu LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; =
+PADDING-TOP: 0px
+}
+UL.PopoutMenu LI LI {
+	Z-INDEX: 100; BORDER-BOTTOM: #d9d9ce 1px solid; BORDER-LEFT: #d9d9ce =
+1px solid; BACKGROUND-COLOR: #f0eee4; WIDTH: 220px; VISIBILITY: hidden; =
+BORDER-TOP: medium none; BORDER-RIGHT: #d9d9ce 1px solid
+}
+UL.PopoutMenu LI LI:first-child {
+	BORDER-TOP: #d9d9ce 1px solid
+}
+UL.PopoutMenu A {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 10px; WIDTH: auto; PADDING-RIGHT: =
+15px; DISPLAY: block; PADDING-TOP: 2px
+}
+UL.PopoutMenu A:hover {
+	BACKGROUND-COLOR: #e5e4da; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; =
+OUTLINE-WIDTH: medium
+}
+UL.PopoutMenu A:focus {
+	BACKGROUND-COLOR: #e5e4da; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; =
+OUTLINE-WIDTH: medium
+}
+UL.PopoutMenu A:active {
+	BACKGROUND-COLOR: #e5e4da; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; =
+OUTLINE-WIDTH: medium
+}
+UL.PopoutMenu LI:hover LI UL {
+	VISIBILITY: hidden
+}
+UL.PopoutMenu LI:hover LI LI {
+	VISIBILITY: hidden
+}
+UL.PopoutMenu LI.MenuHover LI UL {
+	VISIBILITY: hidden
+}
+UL.PopoutMenu LI.MenuHover LI LI {
+	VISIBILITY: hidden
+}
+UL.PopoutMenu LI:hover LI {
+	VISIBILITY: visible
+}
+UL.PopoutMenu LI:hover LI UL {
+	VISIBILITY: visible
+}
+UL.PopoutMenu LI LI:hover LI {
+	VISIBILITY: visible
+}
+UL.PopoutMenu LI LI:hover UL {
+	VISIBILITY: visible
+}
+UL.PopoutMenu LI.MenuHover LI {
+	VISIBILITY: visible
+}
+UL.PopoutMenu LI.MenuHover LI UL {
+	VISIBILITY: visible
+}
+UL.PopoutMenu LI LI.MenuHover LI {
+	VISIBILITY: visible
+}
+UL.PopoutMenu LI LI.MenuHover UL {
+	VISIBILITY: visible
+}
+HTML {
+	HEIGHT: 100%
+}
+BODY {
+	HEIGHT: 100%
+}
+#PageWrapper {
+	POSITION: relative; MIN-HEIGHT: 100%
+}
+BODY {
+	BACKGROUND-COLOR: white
+}
+#Footer {
+	BACKGROUND-COLOR: white
+}
+#LeftColumn {
+	BORDER-TOP: white 10px solid
+}
+#NewMastheadWrapper {
+	BACKGROUND-IMAGE: none
+}
+#NewMastheadWrapper #Masthead {
+	BACKGROUND-IMAGE: none
+}
+#PageFooter {
+	BACKGROUND-IMAGE: none
+}
+#NewMastheadWrapper {
+	POSITION: relative; MIN-WIDTH: 746px; PADDING-BOTTOM: 0px; =
+BACKGROUND-COLOR: #5e0009; PADDING-LEFT: 0px; WIDTH: 100%; =
+PADDING-RIGHT: 0px; HEIGHT: 35px; PADDING-TOP: 0px
+}
+#NewMastheadWrapper #Masthead {
+	POSITION: relative; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: transparent; =
+MARGIN: 0px auto; PADDING-LEFT: 10px; WIDTH: 746px; PADDING-RIGHT: 10px; =
+HEIGHT: 35px; PADDING-TOP: 0px
+}
+#NewMastheadWrapper #Masthead .header {
+	Z-INDEX: 2; POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 0px; =
+PADDING-LEFT: 7px; WIDTH: 167px; PADDING-RIGHT: 0px; BACKGROUND: =
+url(https://missouristate.info/images/2010/logotab.png) no-repeat left =
+top; HEIGHT: 52px; TOP: 0px; PADDING-TOP: 0px; LEFT: -5px
+}
+#NewMastheadWrapper #Masthead .header A {
+	POSITION: static; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; DISPLAY: block; PADDING-TOP: 0px
+}
+#NewMastheadWrapper #Masthead .header IMG {
+	POSITION: static; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; DISPLAY: block; PADDING-TOP: 0px
+}
+#NewMastheadWrapper #Masthead FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px; DISPLAY: block; PADDING-TOP: 0px
+}
+#NewMastheadWrapper #Masthead .SiteIndex {
+	POSITION: absolute; TEXT-ALIGN: right; LINE-HEIGHT: 13px; WIDTH: 406px; =
+DISPLAY: table; HEIGHT: 35px; MARGIN-LEFT: 186px; FONT-SIZE: 11px; TOP: =
+0px; LEFT: 0px
+}
+#NewMastheadWrapper #Masthead .Search {
+	POSITION: absolute; WIDTH: 155px; DISPLAY: table; HEIGHT: 35px; =
+MARGIN-LEFT: 601px; TOP: 0px; LEFT: 0px
+}
+#NewMastheadWrapper #Masthead .SiteIndex A {
+	Z-INDEX: 2; POSITION: relative
+}
+#NewMastheadWrapper .SiteIndex > DIV {
+	POSITION: static; DISPLAY: table-cell; VERTICAL-ALIGN: middle
+}
+.Search > DIV {
+	POSITION: static; DISPLAY: table-cell; VERTICAL-ALIGN: middle
+}
+#NewMastheadWrapper .SiteIndex DIV DIV {
+	POSITION: static; DISPLAY: table-cell; VERTICAL-ALIGN: middle
+}
+#NewMastheadWrapper .Search DIV DIV {
+	POSITION: static; DISPLAY: table-cell; VERTICAL-ALIGN: middle
+}
+#NewMastheadWrapper .SiteIndex DIV {
+	WIDTH: 400px
+}
+#NewMastheadWrapper .Search DIV {
+	WIDTH: 155px
+}
+#NewMastheadWrapper #Masthead .SiteIndex A {
+	POSITION: static; PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; =
+PADDING-RIGHT: 2px; DISPLAY: inline-block; COLOR: white; =
+TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+#NewMastheadWrapper #Masthead A:hover {
+	TEXT-DECORATION: underline
+}
+#NewMastheadWrapper #Masthead LABEL {
+	POSITION: absolute; WIDTH: 0px; HEIGHT: 0px; COLOR: white
+}
+#NewMastheadWrapper #Masthead INPUT {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 16px; BORDER-RIGHT-WIDTH: 1px; =
+MARGIN: 0px; PADDING-LEFT: 2px; WIDTH: 149px; PADDING-RIGHT: 2px; =
+DISPLAY: block; BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; COLOR: =
+#303031; FONT-SIZE: 13px; BORDER-LEFT-WIDTH: 1px; PADDING-TOP: 2px
+}
+#NewMastheadWrapper #Masthead INPUT[type=3Dimage] {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 1px; =
+PADDING-RIGHT: 0px; DISPLAY: block; HEIGHT: 1px; COLOR: white; =
+PADDING-TOP: 0px
+}
+#NewMastheadWrapper + .CenterWrapper {
+	POSITION: relative; PADDING-BOTTOM: 10em
+}
+#PageFooter {
+	POSITION: absolute; MIN-WIDTH: 746px; LINE-HEIGHT: 15px; =
+BACKGROUND-COLOR: #5f6061; WIDTH: 100%; BOTTOM: 0px; HEIGHT: 9em; COLOR: =
+white; CLEAR: both; FONT-SIZE: 11px; BORDER-TOP: #303031 5px solid; =
+PADDING-TOP: 7px; LEFT: 0px
+}
+#PageFooter A {
+	COLOR: white
+}
+#PageFooter .grid_4 {
+	MARGIN-TOP: 24px
+}
+#PageFooter .grid_6 {
+	MARGIN-TOP: 24px
+}
+#PageFooter .FYP {
+	TEXT-ALIGN: right; MARGIN: 0px 10px; MIN-HEIGHT: 90px
+}
+#PageFooter UL {
+	LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; DISPLAY: block
+}
+#PageFooter LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: =
+0px; PADDING-RIGHT: 0px; DISPLAY: inline-block; COLOR: white; =
+PADDING-TOP: 0px
+}
+#PageFooter LI A {
+	MARGIN: 0px 10px; DISPLAY: inline-block
+}
+#PageFooter LI:before {
+	CONTENT: '|'
+}
+#PageFooter LI:first-child:before {
+	CONTENT: ''
+}
+#PageFooter LI:first-child A {
+	MARGIN-LEFT: 0px
+}
+#PageFooter .container_12 {
+	POSITION: relative; BACKGROUND-COLOR: transparent; MARGIN: 0px auto; =
+WIDTH: 756px
+}
+#PageFooter .grid_2 {
+	POSITION: relative; TEXT-ALIGN: left; DISPLAY: inline; FLOAT: left
+}
+#PageFooter .grid_4 {
+	POSITION: relative; TEXT-ALIGN: left; DISPLAY: inline; FLOAT: left
+}
+#PageFooter .grid_6 {
+	POSITION: relative; TEXT-ALIGN: left; DISPLAY: inline; FLOAT: left
+}
+#PageFooter .grid_2 {
+	WIDTH: 112px
+}
+#PageFooter .grid_4 {
+	WIDTH: 312px
+}
+#PageFooter .grid_6 {
+	WIDTH: 312px
+}
+#NewMastheadWrapper #Masthead .SiteIndex .SkipNav {
+	POSITION: absolute; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; =
+OUTLINE-WIDTH: medium; WIDTH: 1px; DISPLAY: block; HEIGHT: 1px
+}
+#PageFooter LI {
+	DISPLAY: inline-block
+}
+#NewMastheadWrapper #Masthead .Search {
+	TOP: 5px
+}
+
+@media Print   =20
+{
+BODY {
+	TEXT-ALIGN: left; BACKGROUND-COLOR: white !important
+}
+DIV#Search {
+	DISPLAY: none
+}
+DIV#LeftColumn {
+	DISPLAY: none
+}
+DIV#Breadcrumb {
+	DISPLAY: none
+}
+DIV#ContentColumn {
+	BORDER-BOTTOM: white 1px solid; POSITION: static; BORDER-LEFT: white =
+1px solid; WIDTH: 100%; FLOAT: none; BORDER-TOP: white 1px solid; =
+BORDER-RIGHT: white 1px solid
+}
+DIV#OuterColumnContainer {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: inline; =
+BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+DIV#InnerColumnContainer {
+	POSITION: static; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 100%; =
+PADDING-RIGHT: 0px; FLOAT: none; PADDING-TOP: 0px
+}
+DIV#PageWrapper {
+	POSITION: static; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 100%; =
+PADDING-RIGHT: 0px; FLOAT: none; PADDING-TOP: 0px
+}
+DIV.CenterWrapper {
+	POSITION: static; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 100%; =
+PADDING-RIGHT: 0px; FLOAT: none; PADDING-TOP: 0px
+}
+DIV#Masthead {
+	POSITION: static; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 100%; =
+PADDING-RIGHT: 0px; FLOAT: none; PADDING-TOP: 0px
+}
+DIV#MastheadWrapper {
+	POSITION: static; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 100%; =
+PADDING-RIGHT: 0px; FLOAT: none; PADDING-TOP: 0px
+}
+DIV#Footer {
+	POSITION: static; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 100%; =
+PADDING-RIGHT: 0px; FLOAT: none; PADDING-TOP: 0px
+}
+DIV#Footer {
+	BACKGROUND-COLOR: white; PADDING-TOP: 10px
+}
+DIV#Masthead {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: white; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV#Masthead FORM {
+	DISPLAY: none
+}
+DIV#Masthead DIV.Clear {
+	DISPLAY: none
+}
+DIV.ColumnTrpl {
+	FLOAT: none
+}
+DIV.ColumnQuad {
+	FLOAT: none
+}
+DIV.ColumnQuad {
+	WIDTH: 95%
+}
+DIV.ColumnDbl {
+	WIDTH: 95%; FLOAT: none
+}
+DIV#InnerColumnContainer DIV#ContentColumn DIV.ColumnDbl {
+	WIDTH: 368px; FLOAT: left
+}
+DIV#FullOuterColumnContainer DIV#FullContentColumn DIV.ColumnDbl {
+	WIDTH: 48%; FLOAT: left
+}
+DIV.PrintOnly {
+	DISPLAY: block
+}
+.PrintOnly {
+	DISPLAY: block
+}
+DIV.NoPrint {
+	DISPLAY: none !important
+}
+.NoPrint {
+	DISPLAY: none !important
+}
+#PageFooter {
+	POSITION: static; MIN-WIDTH: 720px; WIDTH: 720px; HEIGHT: auto; CLEAR: =
+both; BORDER-TOP: medium none
+}
+
+}
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: 7bit
+Content-Location: http://missouristate.edu/styles/globalactual.css
+
+@import url( https://www.missouristate.edu/styles/global.css );
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: 7bit
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_files/global.css
+
+@import url( http://missouristate.edu/styles/globalactual.css );
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.missouristate.edu/styles/sgf.css
+
+.HomeNav LI {
+	BORDER-BOTTOM: #d9d9ce 1px solid; BORDER-TOP: #d9d9ce 1px solid
+}
+.HomeNav A:link {
+	COLOR: #630016
+}
+.HomeNav A:active {
+	COLOR: #630016
+}
+.HomeNav A:visited {
+	COLOR: #630016
+}
+.HomeNav A:hover {
+	COLOR: #8c001e
+}
+A:link {
+	COLOR: #630016
+}
+A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+.LinkList LI A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+DL.Feature A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+UL.FeatureButton A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+DIV.LinkListButton A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+.NavLinks A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+#LocalNav A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+DIV.NewsLinkList DL DD A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+DIV.MoreInfoLink A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+SPAN.MoreInfoLink A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+DIV#OnTheWeb A:hover {
+	BORDER-BOTTOM-COLOR: #8c001e; COLOR: #8c001e
+}
+H3.Shaded {
+	BACKGROUND-COLOR: #4a0010
+}
+.Shaded {
+	BACKGROUND-COLOR: #4a0010
+}
+DIV.LinkList LI A {
+	BORDER-BOTTOM: #d9d7ce 1px solid
+}
+DIV.NewsLinkList DL DD A {
+	BORDER-BOTTOM: #d9d7ce 1px solid
+}
+DIV#OnTheWeb DIV A {
+	BORDER-BOTTOM: #d9d7ce 1px solid
+}
+.LinkButton A {
+	COLOR: #96968d
+}
+#LocalNav A {
+	COLOR: #4a0010
+}
+#Masthead {
+	BACKGROUND-COLOR: #4a0010
+}
+#Promo IMG {
+	BORDER-BOTTOM: #b3b3aa 1px solid; BORDER-LEFT: #b3b3aa 1px solid; =
+BORDER-TOP: #b3b3aa 1px solid; BORDER-RIGHT: #b3b3aa 1px solid
+}
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: 7bit
+Content-Location: http://missouristate.edu/styles/sgfactual.css
+
+@import url( https://www.missouristate.edu/styles/sgf.css );
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: 7bit
+Content-Location: http://courses.missouristate.edu/KenVollmar/MARS/NavOneColumn_files/sgf.css
+
+@import url( http://missouristate.edu/styles/sgfactual.css );
+
+------=_NextPart_000_0015_01CD2D0E.C9E9FEC0--
